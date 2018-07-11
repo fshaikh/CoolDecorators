@@ -1,0 +1,20 @@
+{
+  "name": "cool-decorators",
+  "version": "0.1.0",
+  "description": "a set of ES6 decorators",
+  "main": "cool-decorators.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "ES6",
+    "decorators",
+    "typescript",
+    "javascript"
+  ],
+  "author": "furqan shaikh",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  }
+}
